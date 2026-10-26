@@ -1,0 +1,19 @@
+schema_version: '4.0'
+ief_version: 0.20.0
+initiative:
+  id: 03WAZEPROJECT
+  name: 03_Waze_Project
+  preset: analysis
+  layout: flat
+  role_paths: &id001 {}
+  adopted_at: '2026-10-26T23:09:22.910163+00:00'
+focus: null
+max_active: 3
+increments: []
+history:
+- action: ADOPT
+  timestamp: '2026-10-26T23:09:22.910163+00:00'
+  preset: analysis
+  layout: flat
+  mapeo: *id001
+updated_at: '2026-10-26T23:09:22.910163+00:00'
